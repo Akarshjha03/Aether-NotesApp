@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836145742864",
+    "project_id": "realtime-db-198dc",
+    "storage_bucket": "realtime-db-198dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836145742864:android:943a923e9f64f86f20b695",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb8qkyhcOCQ6aZrSiXsqtz3gYoQad7to0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

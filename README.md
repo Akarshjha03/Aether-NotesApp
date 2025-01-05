@@ -5,7 +5,7 @@
   <tr>
     <td style="border: none;">
       
-<img src="" style="height: 175px; width: 1000px;" alt="Description of the image">
+<img src="" style="height: 175px; width: 1000px;" alt="App Icon">
       
 </td>
     <td style="border: none;">

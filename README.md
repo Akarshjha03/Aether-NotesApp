@@ -1,7 +1,21 @@
 # 🪶 Aether - Your Ultimate Notes-Making Companion 📝
 
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      
+<img src="" style="height: 175px; width: 1000px;" alt="Description of the image">
+      
+</td>
+    <td style="border: none;">
+      
 Welcome to *Aether*, the notes-making app designed to boost your productivity and creativity!  
 Whether you're jotting down quick ideas or organizing detailed plans, Aether empowers you to stay on top of your game.  
+
+  </td> 
+  </tr>
+</table>
 
 ---
 

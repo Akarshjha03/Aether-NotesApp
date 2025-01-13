@@ -38,8 +38,28 @@ Whether you're jotting down quick ideas or organizing detailed plans, Aether emp
 
 ---
 
-## 🔧 Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/aether-notes.git
-   ```
+## 🚀 Installation Guide
+
+Follow these steps to install and use the **Aether Notes** app directly from the Releases section:
+
+### 📥 Step 1: Download the APK
+1. Navigate to the [Releases section](https://github.com/<your-username>/<repo-name>/releases) of this repository.
+2. Look for the latest release. It will usually be at the top of the list and labeled with the latest version (e.g., `v1.0.0`).
+3. Under the "Assets" section of the release, click on the file with the `.apk` extension to download it to your device.
+
+### 📱 Step 2: Install the APK on Your Device
+1. Open the downloaded `.apk` file on your Android device.
+   - You may need to enable **"Install from Unknown Sources"** in your device settings. Here's how:
+     - Go to **Settings** > **Security** > **Unknown Sources** and toggle it on.
+2. Follow the on-screen instructions to complete the installation.
+
+### ✅ Step 3: Launch the App
+1. Once the installation is complete, you can find the app in your app drawer.
+2. Open the app and start organizing your notes effortlessly with **Aether Notes**! 🎉
+
+---
+
+### 🔄 Updating the App
+Whenever a new version is released:
+1. Visit the [Releases section](https://github.com/<your-username>/<repo-name>/releases).
+2. Download the latest `.apk` file and install it over the previous version. Your data will remain intact.

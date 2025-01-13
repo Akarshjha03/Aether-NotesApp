@@ -64,6 +64,7 @@ Whenever a new version is released:
 1. Visit the [Releases section](https://github.com/Akarshjha03/Aether-NotesApp/releases).
 2. Download the latest `.apk` file and install it over the previous version. Your data will remain intact.
 
+---
 
 ## 📸 Screenshots:
 Below are some screenshots of **Aether Notes** app in action:

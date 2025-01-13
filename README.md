@@ -43,7 +43,7 @@ Whether you're jotting down quick ideas or organizing detailed plans, Aether emp
 Follow these steps to install and use the **Aether Notes** app directly from the Releases section:
 
 ### 📥 Step 1: Download the APK
-1. Navigate to the [Releases section](https://github.com/<your-username>/<repo-name>/releases) of this repository.
+1. Navigate to the [Releases section](https://github.com/Akarshjha03/Aether-NotesApp/releases) of this repository.
 2. Look for the latest release. It will usually be at the top of the list and labeled with the latest version (e.g., `v1.0.0`).
 3. Under the "Assets" section of the release, click on the file with the `.apk` extension to download it to your device.
 
@@ -61,5 +61,5 @@ Follow these steps to install and use the **Aether Notes** app directly from the
 
 ### 🔄 Updating the App
 Whenever a new version is released:
-1. Visit the [Releases section](https://github.com/<your-username>/<repo-name>/releases).
+1. Visit the [Releases section](https://github.com/Akarshjha03/Aether-NotesApp/releases).
 2. Download the latest `.apk` file and install it over the previous version. Your data will remain intact.

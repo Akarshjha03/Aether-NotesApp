@@ -38,7 +38,7 @@ Whether you're jotting down quick ideas or organizing detailed plans, Aether emp
 
 ---
 
-## 🚀 Installation Guide
+## 🔧 Installation Guide
 
 Follow these steps to install and use the **Aether Notes** app directly from the Releases section:
 

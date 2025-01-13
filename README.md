@@ -63,3 +63,30 @@ Follow these steps to install and use the **Aether Notes** app directly from the
 Whenever a new version is released:
 1. Visit the [Releases section](https://github.com/Akarshjha03/Aether-NotesApp/releases).
 2. Download the latest `.apk` file and install it over the previous version. Your data will remain intact.
+
+
+## 📸 Screenshots:
+Below are some screenshots of **Aether Notes** app in action:
+
+![Screenshot 1](path/to/your/screenshot1.png)
+*Description of screenshot 1.*
+
+![Screenshot 2](path/to/your/screenshot2.png)
+*Description of screenshot 2.*
+
+![Screenshot 3](path/to/your/screenshot3.png)
+*Description of screenshot 3.*
+
+---
+
+## 🛠 Future Plans:
+Here are some exciting features planned for the future:
+
+- 🤖 **AI-Powered Suggestions** for note-taking: Enhance your notes with AI-driven insights and recommendations.
+- 🕵️‍♀️ **Handwriting recognition** for seamless digitalization: Convert your handwritten notes into text effortlessly.
+- 🌍 **Multi-language support**: Expand accessibility by supporting various languages for global users.
+
+---
+
+## 🚧 Aether is under active development. Stay tuned for updates!
+We're constantly improving and adding new features. Keep an eye on the Releases section for updates and new versions!

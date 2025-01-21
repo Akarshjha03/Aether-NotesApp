@@ -1,6 +1,5 @@
 # 🪶 Aether - Your Ultimate Notes-Making Companion 📝
 
-
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none;">

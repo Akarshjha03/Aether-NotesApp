@@ -88,5 +88,7 @@ Here are some exciting features planned for the future:
 
 ---
 
+# Aether - Where your thoughts find a home. 🌌
+
 ## 🚧 Aether is under active development. Stay tuned for updates!
 We're constantly improving and adding new features. Keep an eye on the Releases section for updates and new versions!

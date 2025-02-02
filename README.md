@@ -1,4 +1,4 @@
-# 🪶 Aether - Your Ultimate Notes-Making Companion 📝
+# 🪶 Aether - Where your thoughts find a home. 🌌
 
 <table style="border-collapse: collapse;">
   <tr>
@@ -9,7 +9,7 @@
 </td>
     <td style="border: none;">
       
-Welcome to *Aether*, the notes-making app designed to boost your productivity and creativity!  
+Welcome to *Aether*, the notes-making app 📝 designed to boost your productivity and creativity!  
 Whether you're jotting down quick ideas or organizing detailed plans, Aether empowers you to stay on top of your game.  
 
   </td> 
@@ -87,8 +87,6 @@ Here are some exciting features planned for the future:
 - 🌍 **Multi-language support**: Expand accessibility by supporting various languages for global users.
 
 ---
-
-# Aether - Where your thoughts find a home. 🌌
 
 ## 🚧 Aether is under active development. Stay tuned for updates!
 We're constantly improving and adding new features. Keep an eye on the Releases section for updates and new versions!

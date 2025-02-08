@@ -4,7 +4,7 @@
   <tr>
     <td style="border: none;">
       
-<img src="" style="height: 175px; width: 1000px;" alt="App Icon">
+<img src="https://github.com/user-attachments/assets/ab0e7268-43ec-40e7-9d64-9f065f66ab2f" style="height: 200px; width: 256px;" alt="AppIcon">
       
 </td>
     <td style="border: none;">
